@@ -26,7 +26,7 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 - Algorithm and problem-solving projects
 
 ## Connect With Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/anthony-villagomez-90132a376
 - Email: anthonypvillagomez@gmail.com
 
 ---
