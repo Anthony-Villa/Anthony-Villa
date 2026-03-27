@@ -9,8 +9,8 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 - Interested in software engineering, defense technology, and practical problem-solving
 
 ## Tech Stack
-- **Languages:** Python, Java, JavaScript, SQL
-- **Web:** HTML, CSS, DOM Manipulation
+- **Languages:** Python, Java, AI, SQL
+- **Web:** HTML, CSS
 - **Tools:** Git, GitLab, VS Code, Tkinter
 - **Systems:** Linux, Windows
 
