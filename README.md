@@ -6,12 +6,12 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 - Computer Science B.S.
 - Active TS/SCI
 - 8+ years supporting operational and intelligence systems
-- Interested in software engineering, defense technology, and practical problem-solving
+- Interested in software engineering, defense technology, and practical problem-solving, Data-Science
 
 ## Tech Stack
 - **Languages:** Python, Java, AI, SQL
 - **Web:** HTML, CSS
-- **Tools:** Git, GitLab, VS Code, Tkinter
+- **Tools:** GitHub, Git, VSCode, Tkinter
 - **Systems:** Linux, Windows
 
 ## What I'm Working On
