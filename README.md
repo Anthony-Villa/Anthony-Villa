@@ -21,7 +21,7 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 
 ## Featured Project Areas
 - Python desktop applications
-- Java-based data processing tools
+- Python & SQL-based data processing tools
 - JavaScript web applications
 - Algorithm and problem-solving projects
 
