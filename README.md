@@ -32,7 +32,10 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 ---
 *Always learning, building, and improving.*
 # 💫 About Me:
-Computer Science B.S.<br>Active TS/SCI<br>8+ years supporting operational and intelligence systems<br>Interested in software engineering, defense technology, and practical problem-solving, Data-Science
+- Computer Science B.S.
+- Active TS/SCI
+- 8+ years supporting operational and intelligence systems
+- Interested in software engineering, defense technology, and practical problem-solving, Data-Science
 
 
 ## 🌐 Socials:
