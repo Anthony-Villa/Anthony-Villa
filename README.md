@@ -18,11 +18,6 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 - Python & SQL-based data processing tools
 - JavaScript web applications
 - Algorithm and problem-solving projects
-
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/anthony-villagomez-90132a376
-- Email: anthonypvillagomez@gmail.com
-
 ---
 # 💫 About Me:
 - Computer Science B.S.
