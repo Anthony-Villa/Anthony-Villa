@@ -2,12 +2,6 @@
 
 Computer Science graduate and U.S. Air Force professional with experience in secure DoD environments, software development, and mission-critical operations.
 
-## Tech Stack
-- **Languages:** Python, Java, AI, SQL
-- **Web:** HTML, CSS
-- **Tools:** GitHub, Git, VSCode, Tkinter
-- **Systems:** Linux, Windows
-
 ## What I'm Working On
 - Building software engineering projects that strengthen real-world development skills
 - Expanding my knowledge in web development, debugging, and system design
