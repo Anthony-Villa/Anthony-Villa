@@ -31,6 +31,3 @@ Computer Science graduate and U.S. Air Force professional with experience in sec
 ![](https://streak-stats.demolab.com/?user=Anthony-Villa&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Anthony-Villa&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=Anthony-Villa&icon=0&color=0)](https://visitcount.itsvg.in)
-
